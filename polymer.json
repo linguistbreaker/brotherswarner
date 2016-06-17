@@ -1,0 +1,9 @@
+{
+  "entrypoint": "index.html",
+  "shell": "src/warner-app.html",
+  "fragments": [
+    "src/warner-sean.html",
+    "src/warner-william.html",
+    "src/warner-chas.html"
+  ]
+}
